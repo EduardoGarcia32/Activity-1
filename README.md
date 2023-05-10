@@ -1,9 +1,9 @@
-# Archivo README
+#Archivo README
 
-## Mis Datos
+##Mis Datos
 
-## Nombre
-** Luis Eduardo Garcia Soto
+##Nombre
+**Luis Eduardo Garcia Soto
 
 ## Matricula
 ** 2762086
